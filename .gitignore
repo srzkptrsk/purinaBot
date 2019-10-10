@@ -19,3 +19,10 @@
 purina.sqlite
 configuration.json
 media/*
+.idea/.gitignore
+.idea/deployment.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/purinaBot.iml
+.idea/vcs.xml
+.idea/webServers.xml
