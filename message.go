@@ -1,3 +1,8 @@
+/**
+ * @copyright Piatrouski Software
+ * @author Siaržuk Piatroŭski (siarzuk@piatrouski.com)
+ */
+
 package main
 
 import (

@@ -1,3 +1,8 @@
+/**
+ * @copyright Piatrouski Software
+ * @author Siaržuk Piatroŭski (siarzuk@piatrouski.com)
+ */
+
 package main
 
 import (
@@ -8,8 +13,8 @@ import (
 
 type User struct {
 	gorm.Model
-	UserId       int
-	Day          int
+	UserId int
+	Day    int
 }
 
 func SendMessages(db *gorm.DB, bot *tgbotapi.BotAPI) {
